@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cooperationRequestStatus>
+  <requisites>
+    <isEnabled>true</isEnabled>
+    <isFilled>true</isFilled>
+  </requisites>
+  <offer>
+    <isEnabled>true</isEnabled>
+    <isFilled>true</isFilled>
+  </offer>
+  <contacts>
+    <isEnabled>true</isEnabled>
+    <isFilled>true</isFilled>
+  </contacts>
+  <legalForm>2</legalForm>
+  <documents>
+    <id>25</id>
+    <name>Сканированная копия паспорта физического лица (вторая, третья страница и страница с регистрацией)</name>
+    <description>Копия паспорта содержит необходимую информацию и образец подписи Физического Лица, что в свою очередь позволит компании проверить достоверность информации о нем.</description>
+    <archiveName>Passport</archiveName>
+    <templatePath>/api</templatePath>
+    <allowedExtensions>jpg,jpeg,png,pdf</allowedExtensions>
+    <maxFileCount>1</maxFileCount>
+    <documentTypeId>25</documentTypeId>
+    <isRequired>true</isRequired>
+    <isUploaded>true</isUploaded>
+  </documents>
+</cooperationRequestStatus>

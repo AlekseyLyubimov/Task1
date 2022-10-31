@@ -1,0 +1,42 @@
+{
+	"loanApplication": {
+		"sum": 5825803.50,
+		"term": 8,
+		"delay": 0,
+		"attachmentId": "bf6e9abb-c087-48dd-91ed-b39dccbf4bb0",
+		"legalEntity": {
+			"fullName": "Лукьянов Виктор Викторович ИП",
+			"inn": "272602854596",
+			"legalAddress": ", 666",
+			"kindActivity": "Эзотерические услуги",
+			"phone": "+76666666666",
+			"email": "666@666.com"
+		},
+		"individuals": [
+			{
+				"surname": "Иванов",
+				"name": "Иван",
+				"patronimyc": "Иванович",
+				"birthday": "01.01.1970",
+				"placeOfBirth": "г. москва",
+				"legalAddress": "г.москва, ул. Алексея Свиридова, 28",
+				"legalAddressIndex": "434534",
+				"phone": "+73453453453",
+				"capitalShare": 100,
+				"role": "INDIVIDUAL",
+				"passport": {
+					"series": "5345",
+					"number": "534534",
+					"date": "06.12.2019",
+					"issuedBy": "отделом уфмс россии по гор москве по району ленинский",
+					"issuedByCode": "345-345"
+				}
+			}
+		],
+		"agreements": {
+			"personal": true,
+			"bki": true,
+			"sharing": true
+		}
+	}
+}
